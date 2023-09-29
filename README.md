@@ -1,10 +1,10 @@
 ### Hi there, i'm Filipe Luiz
 
 <a href="https://github.com/FLuiz22/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FLuiz22&show_icons=true&theme=holi" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=FLuiz22&show_icons=true&theme=holi" />
 </a>
 <a href="https://github.com/FLuiz22/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FLuiz22&layout=compact&theme=holi&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FLuiz22&layout=compact&theme=holi&langs_count=8&card_width=320" />
 </a>
 
 ## I'm learning
